@@ -1,0 +1,12 @@
+.map-main {
+  width: 100%;
+  height: 700%;
+}
+.map-pasay {
+  width: 100%;
+  height: 70%;
+}
+
+.navbar-fixed .nav-wrapper .logo {
+  display: none;
+}

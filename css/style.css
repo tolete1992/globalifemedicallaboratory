@@ -1,0 +1,46 @@
+.slider img {
+  filter: blur(4px);
+  background-size: cover;
+  background-attachment: fixed;
+
+  height: 100vh;
+}
+
+.container .container-content {
+  margin: 10px;
+  padding: 15px;
+}
+
+#contact .container ul .main-branch {
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+#contact .container ul .pasay-branch {
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+#contact .container ul .satellite-branch {
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+#contact .container ul .kawit-branch {
+  margin-top: 25px;
+  padding-top: 25px;
+}
+.section-follow .fa-3x {
+  margin: 5px 15px;
+}
+
+.section-gallery img {
+  margin: 10px;
+}
+
+.navbar-fixed .nav-wrapper .logo {
+  width: 30px;
+  height: 25px;
+  position: relative;
+  align-items: center;
+}
